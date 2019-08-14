@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Awards Application</string>
+
+    <string name="label_award">AWARD</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="label_home">Home</string>
+    <string name="label_cards">Cards</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_logout">Log Out</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_awards_menu">Awards Menu</string>
+    <string name="label_awards">Awards</string>
+
+    <string name="info_enter_email">Enter your email address \n to sign in  and continue</string>
+    <string name="info_poin_needed">Poin Needed</string>
+    <string name="info_awards_type">Awards Type</string>
+    <string name="info_clear_all_filter">Clear All Filter</string>
+    <string name="info_logout">ThankYou, Please Login by Your Email</string>
+
+    <string name="hint_email_address">Email Address</string>
+    <string name="title_activity_menu_awards">MenuAwardsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>

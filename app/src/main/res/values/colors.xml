@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e1e1e1</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorBlueDark">#364255</color>1c5bf4
+    <color name="colorBlueLink">#1c5bf4</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#e1e1e1</color>
+
+    <color name="colorVoucher">#1c5bf4</color>
+    <color name="colorProduct">#d06737</color>
+    <color name="colorGiftCard">#00ff00</color>
+</resources>
